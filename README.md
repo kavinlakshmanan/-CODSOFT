@@ -27,8 +27,8 @@ I'm excited to dive into each task with enthusiasm and creativity. I'll be lever
 
 I'd love to connect with fellow interns, mentors, and anyone else interested in web development! Feel free to reach out to me via email or connect with me on LinkedIn:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [your.email@example.com](kavinlakshmanan@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/kavin-l)
 
 ## Let's Collaborate 🤝
 
